@@ -1,13 +1,12 @@
 {
     "name": "niainteractive/listfiles-plugin",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A component that displays a list of files for given directories with titles.",
     "type": "october-plugin",
     "require": {
-        "php": ">=7.4",
-        "october/rain": "^3.0",
-        "october/system": "^3.0",
-        "october/cms": "^3.0"
+        "php": "^8.2",
+        "october/rain": "^4.2",
+        "october/all": "^4.2"
     },
     "authors": [
         {
